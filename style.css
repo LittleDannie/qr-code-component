@@ -44,10 +44,10 @@ body {
 }
 
 .inner-container {
-	padding: 24px 12px;
+	padding: 18px 12px;
 	display: flex;
 	flex-direction: column;
-	row-gap: 16px;
+	row-gap: 8px;
 }
 
 .text-one {
