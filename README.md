@@ -19,12 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![desktop view](./screenshots/desktop-view.png)
-
+![desktop view](./screenshots/desktop-view.png)  
 _Desktop view_
 
-![mobile-view](./screenshots/mobile-view.png)
-
+![mobile-view](./screenshots/mobile-view.png)  
 _Mobile view_
 
 ### Links
