@@ -13,12 +13,13 @@
 body {
 	margin: 0;
 	background-color: 	hsl(212, 45%, 89%);
-	height: 100vh;
+	min-height: 100vh;
 	display: flex;
 	font-family: Outfit, sans-serif;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	box-sizing: border-box;
 }
 
 .shadow-container {
