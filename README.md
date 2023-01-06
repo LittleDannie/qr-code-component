@@ -27,8 +27,9 @@ _Mobile view_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [qr-code-coponent](https://github.com/LittleDannie/qr-code-component)
+- Live Site URL: [GitHub Pages](https://littledannie.github.io/qr-code-component/)
+- Live Site URL: [Netlify](https://qr-code-component-error-code.netlify.app/);
 
 ## My process
 
